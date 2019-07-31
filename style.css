@@ -1,0 +1,15 @@
+.navigation {
+  z-index: 1;
+}
+
+.btn {
+  border-radius: 0 !important;
+  margin-top: 70px;
+}
+
+.headerImage {
+  margin-top: -100px;
+  margin-left: -50px;
+  z-index: -1;
+  overflow: hidden;
+}
